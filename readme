@@ -1,0 +1,17 @@
+Login menggunakan   username: user1
+                    password: password1
+                    level: user,
+                    
+                    username: user1_level
+                    password: User
+                    level: user,
+                    
+                    username: admin1
+                    password: password1
+                    level: admin,
+                    
+                    username: admin1_level
+                    password: Admin
+                    level: admin,
+                    
+Jika ingin menginstall file apk pada android. Silahkan install file apk-debug.apk pada directory SimpleApp\app\build\outputs\apk\debug
